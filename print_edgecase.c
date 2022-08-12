@@ -2,7 +2,7 @@
 
 /********************* PRINT POINTER *********************/
 /**
- * print_pointer - Prints the value of a pointer variable
+ * print_pointer - Print the value of a pointer variable
  * to the
  * standard output
  * @types: List a of arguments
