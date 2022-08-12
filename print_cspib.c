@@ -3,7 +3,7 @@
 /************************* PRINT CHAR ****************************/
 
 /**
- * print_char - Print a char
+ * print_char - Print a character
  * to the standard
  * output
  * @types: List a of arguments
