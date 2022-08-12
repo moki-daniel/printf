@@ -2,7 +2,7 @@
 
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
- * print_unsigned - Prints an unsigned number
+ * print_unsigned - Print an unsigned number
  * to the
  * standard output
  * @types: List a of arguments
